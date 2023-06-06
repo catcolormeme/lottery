@@ -128,7 +128,9 @@ export default function Home() {
                               <div className="ticket-user col-md-4 col-sm-12">
                                 <strong>Address:</strong>
                                 <br />
-                                <span>{user.address}</span>
+                                <span className="addddress">
+                                  {user.address}
+                                </span>
                               </div>
                               <div className="ticket-user col-md-4 col-sm-12">
                                 <strong>Total Tokens:</strong>
