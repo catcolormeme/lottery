@@ -82,11 +82,11 @@ export default function Home() {
                       textAlign: 'center',
                       padding: '15px',
                     }}>
-                    We are giving away $10 dollars to holders with more than one
-                    billion tokens. Simply enter your wallet in the field below
-                    to receive your ticket ID. We will increase the prize as we
-                    are testing the platform. The draw will take place on 10/06
-                    at 23:00 UTC.
+                    We are offering $10 dollars to holders with more than one
+                    billion tokens. The winning ticket will receive $10 dollars.
+                    Simply enter your wallet in the field below to receive your
+                    ticket ID. We will increase the prize as we are testing the
+                    platform. The draw will take place on 10/06 at 23:00 UTC.
                   </h5>
                   <div className="widget-main no-padding">
                     <div style={{ paddingTop: '20px' }}>
