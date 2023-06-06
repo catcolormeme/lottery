@@ -85,7 +85,7 @@ export default function Home() {
                     We are giving away $10 dollars to holders with more than one
                     billion tokens. Simply enter your wallet in the field below
                     to receive your ticket ID. We will increase the prize as we
-                    are testing the platform. The draw will take place on 07/06
+                    are testing the platform. The draw will take place on 10/06
                     at 23:00 UTC.
                   </h5>
                   <div className="widget-main no-padding">
